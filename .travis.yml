@@ -23,4 +23,3 @@ after_success:
     - docker push jablam13/multi-nginx
     - docker push jablam13/multi-server
     - docker push jablam13/multi-worker
-
